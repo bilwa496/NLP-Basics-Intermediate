@@ -1,0 +1,45 @@
+Natural language processing (NLP) is an area of computer science and artificial intelligence concerned with the interaction between computers and humans in natural language. The ultimate goal of NLP is to help computers understand language as well as we do. It is the driving force behind things like virtual assistants, speech recognition, sentiment analysis, automatic text summarization, machine translation and much more. In this post, we'll cover the basics of natural language processing, dive into some of its techniques and also learn how NLP has benefited recent advances in deep learning.
+
+Natural language processing helps computers communicate with humans in their own language and scales other language-related tasks. For example, NLP makes it possible for computers to read text, hear speech, interpret it, measure sentiment and determine which parts are important.
+
+Natural language processing (NLP) is the intersection of computer science, linguistics and machine learning. The field focuses on communication between computers and humans in natural language and NLP is all about making computers understand and generate human language. Applications of NLP techniques include voice assistants like Amazon's Alexa and Apple's Siri, but also things like machine translation and text-filtering.
+
+NLP has heavily benefited from recent advances in machine learning, especially from deep learning techniques. The field is divided into the three parts:
+
+Speech Recognition -  The translation of spoken language into text.
+Natural Language Understanding - The computer's ability to understand what we say.
+Natural Language Generation - The generation of natural language by a computer.
+
+Natural Language Processing (NLP) makes it possible for computers to understand the human language.
+
+Probably, the most popular examples of NLP in action are virtual assistants, like Google Assist, Siri, and Alexa. NLP understands and translates the human language, like “Hey Siri, where is the nearest gas station?” into numbers, making it easy for machines to understand.
+
+Another well-known application of NLP are chatbots, which can help you solve issues while performing natural language generation – in other words, holding a conversation in plain English!
+
+NLP Techniques 
+
+Natural Language Processing (NLP) applies two techniques to help computers understand text: syntactic analysis and semantic analysis. 
+Syntactic Analysis
+
+Syntactic analysis ‒ or parsing ‒ analyzes text using basic grammar rules to identify sentence structure, how words are organized, and how words relate to each other. 
+
+Some of its main sub-tasks include:
+
+    Tokenization consists of breaking up a text into smaller parts called tokens (which can be sentences or words) to make text easier to handle. 
+    Part of speech tagging (PoS tagging) labels tokens as verb, adverb, adjective, noun, etc. This helps infer the meaning of a word (for example, the word “book” means different things if used as a verb or a noun).
+    Lemmatization & stemming consist of reducing inflected words to their base form to make them easier to analyze. 
+    Stop-word removal removes frequently occuring words that don’t add any semantic value, such as I, they, have, like, yours, etc. 
+
+Semantic Analysis
+
+Semantic analysis focuses on capturing the meaning of text. First, it studies the meaning of each individual word (lexical semantics). Then, it looks at the combination of words and what they mean in context. The main sub-tasks of semantic analysis are:
+
+    Word sense disambiguation tries to identify in which sense a word is being used in a given context. 
+    Relationship extraction attempts to understand how entities (places, persons, organizations, etc) relate to each other in a text.
+
+Use Cases of NLP in Business-
+1. Sentiment Analysis
+2. Language Translation
+3. Text Extraction 
+4. Chatbot Development
+5. Topic Classification
